@@ -1,0 +1,8 @@
+E:\hiker game studio\fibona100\fibona100\obj\Debug\fibona100.csproj.AssemblyReference.cache
+E:\hiker game studio\fibona100\fibona100\obj\Debug\fibona100.csproj.SuggestedBindingRedirects.cache
+E:\hiker game studio\fibona100\fibona100\obj\Debug\fibona100.csproj.CoreCompileInputs.cache
+E:\hiker game studio\fibona100\fibona100\bin\Debug\fibona100.exe.config
+E:\hiker game studio\fibona100\fibona100\bin\Debug\fibona100.exe
+E:\hiker game studio\fibona100\fibona100\bin\Debug\fibona100.pdb
+E:\hiker game studio\fibona100\fibona100\obj\Debug\fibona100.exe
+E:\hiker game studio\fibona100\fibona100\obj\Debug\fibona100.pdb

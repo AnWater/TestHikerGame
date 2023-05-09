@@ -1,0 +1,8 @@
+E:\hiker game studio\Nem\Nem\bin\Debug\Nem.exe.config
+E:\hiker game studio\Nem\Nem\bin\Debug\Nem.exe
+E:\hiker game studio\Nem\Nem\bin\Debug\Nem.pdb
+E:\hiker game studio\Nem\Nem\obj\Debug\Nem.csproj.AssemblyReference.cache
+E:\hiker game studio\Nem\Nem\obj\Debug\Nem.csproj.SuggestedBindingRedirects.cache
+E:\hiker game studio\Nem\Nem\obj\Debug\Nem.csproj.CoreCompileInputs.cache
+E:\hiker game studio\Nem\Nem\obj\Debug\Nem.exe
+E:\hiker game studio\Nem\Nem\obj\Debug\Nem.pdb

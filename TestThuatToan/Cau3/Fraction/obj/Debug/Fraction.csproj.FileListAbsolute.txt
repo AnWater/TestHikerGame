@@ -1,0 +1,8 @@
+E:\hiker game studio\Fraction\Fraction\bin\Debug\Fraction.exe.config
+E:\hiker game studio\Fraction\Fraction\bin\Debug\Fraction.exe
+E:\hiker game studio\Fraction\Fraction\bin\Debug\Fraction.pdb
+E:\hiker game studio\Fraction\Fraction\obj\Debug\Fraction.csproj.AssemblyReference.cache
+E:\hiker game studio\Fraction\Fraction\obj\Debug\Fraction.csproj.SuggestedBindingRedirects.cache
+E:\hiker game studio\Fraction\Fraction\obj\Debug\Fraction.csproj.CoreCompileInputs.cache
+E:\hiker game studio\Fraction\Fraction\obj\Debug\Fraction.exe
+E:\hiker game studio\Fraction\Fraction\obj\Debug\Fraction.pdb

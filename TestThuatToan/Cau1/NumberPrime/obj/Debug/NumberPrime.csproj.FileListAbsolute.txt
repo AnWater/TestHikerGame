@@ -1,0 +1,7 @@
+E:\hiker game studio\NumberPrime\NumberPrime\bin\Debug\NumberPrime.exe.config
+E:\hiker game studio\NumberPrime\NumberPrime\bin\Debug\NumberPrime.exe
+E:\hiker game studio\NumberPrime\NumberPrime\bin\Debug\NumberPrime.pdb
+E:\hiker game studio\NumberPrime\NumberPrime\obj\Debug\NumberPrime.csproj.AssemblyReference.cache
+E:\hiker game studio\NumberPrime\NumberPrime\obj\Debug\NumberPrime.csproj.CoreCompileInputs.cache
+E:\hiker game studio\NumberPrime\NumberPrime\obj\Debug\NumberPrime.exe
+E:\hiker game studio\NumberPrime\NumberPrime\obj\Debug\NumberPrime.pdb
